@@ -1,0 +1,4 @@
+G:\HomeWork\WcfTest\TencentCommon\bin\Debug\TencentCommon.dll
+G:\HomeWork\WcfTest\TencentCommon\bin\Debug\TencentCommon.pdb
+G:\HomeWork\WcfTest\TencentCommon\obj\Debug\TencentCommon.dll
+G:\HomeWork\WcfTest\TencentCommon\obj\Debug\TencentCommon.pdb

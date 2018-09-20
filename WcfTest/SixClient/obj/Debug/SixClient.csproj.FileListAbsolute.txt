@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\SixClient\bin\Debug\SixClient.exe.config
+G:\HomeWork\WcfTest\SixClient\bin\Debug\SixClient.exe
+G:\HomeWork\WcfTest\SixClient\bin\Debug\SixClient.pdb
+G:\HomeWork\WcfTest\SixClient\obj\Debug\SixClient.exe
+G:\HomeWork\WcfTest\SixClient\obj\Debug\SixClient.pdb

@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\TwelveClient\bin\Debug\TwelveClient.exe.config
+G:\HomeWork\WcfTest\TwelveClient\bin\Debug\TwelveClient.exe
+G:\HomeWork\WcfTest\TwelveClient\bin\Debug\TwelveClient.pdb
+G:\HomeWork\WcfTest\TwelveClient\obj\Debug\TwelveClient.exe
+G:\HomeWork\WcfTest\TwelveClient\obj\Debug\TwelveClient.pdb

@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\ElevenHost\bin\Debug\ElevenHost.exe.config
+G:\HomeWork\WcfTest\ElevenHost\bin\Debug\ElevenHost.exe
+G:\HomeWork\WcfTest\ElevenHost\bin\Debug\ElevenHost.pdb
+G:\HomeWork\WcfTest\ElevenHost\bin\Debug\ElevenService.dll
+G:\HomeWork\WcfTest\ElevenHost\bin\Debug\ElevenService.pdb
+G:\HomeWork\WcfTest\ElevenHost\obj\Debug\ElevenHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\ElevenHost\obj\Debug\ElevenHost.exe
+G:\HomeWork\WcfTest\ElevenHost\obj\Debug\ElevenHost.pdb

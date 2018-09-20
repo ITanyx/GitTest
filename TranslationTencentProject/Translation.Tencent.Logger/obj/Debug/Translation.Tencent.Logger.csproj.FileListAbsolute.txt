@@ -1,0 +1,6 @@
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\bin\Debug\Translation.Tencent.Logger.dll
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\bin\Debug\Translation.Tencent.Logger.pdb
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\bin\Debug\log4net.dll
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\obj\Debug\Translation.Tencent.Logger.dll
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\obj\Debug\Translation.Tencent.Logger.pdb
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Logger\obj\Debug\Translation.Tencent.Logger.csprojResolveAssemblyReference.cache

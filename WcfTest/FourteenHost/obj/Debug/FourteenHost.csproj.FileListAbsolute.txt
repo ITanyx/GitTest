@@ -1,0 +1,12 @@
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenHost.exe.config
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenHost.exe
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenHost.pdb
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\Tencent.OA.FAF.WCF.dll
+G:\HomeWork\WcfTest\FourteenHost\obj\Debug\FourteenHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\FourteenHost\obj\Debug\FourteenHost.exe
+G:\HomeWork\WcfTest\FourteenHost\obj\Debug\FourteenHost.pdb
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenContract.dll
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenService.dll
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenContract.pdb
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\FourteenService.pdb
+G:\HomeWork\WcfTest\FourteenHost\bin\Debug\Tencent.OA.FAF.Common.dll

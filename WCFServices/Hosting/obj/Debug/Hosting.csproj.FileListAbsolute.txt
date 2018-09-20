@@ -1,0 +1,10 @@
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Hosting.exe.config
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Hosting.exe
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Hosting.pdb
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Contracts.dll
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Services.dll
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Contracts.pdb
+G:\HomeWork\WCFServices\Hosting\bin\Debug\Services.pdb
+G:\HomeWork\WCFServices\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+G:\HomeWork\WCFServices\Hosting\obj\Debug\Hosting.exe
+G:\HomeWork\WCFServices\Hosting\obj\Debug\Hosting.pdb

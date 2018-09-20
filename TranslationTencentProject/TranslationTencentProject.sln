@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation.Tencent.Entity", "Translation.Tencent.Entity\Translation.Tencent.Entity.csproj", "{F1A7A516-0A3D-4F6B-A791-7FF849F0D002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation.Tencent.Logger", "Translation.Tencent.Logger\Translation.Tencent.Logger.csproj", "{F005B591-39D9-4061-B1CB-C11E3C22B999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation.Tencent.Api", "Translation.Tencent.Api\Translation.Tencent.Api.csproj", "{FDEFA449-0C99-470F-A23E-C852C56EC666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A7A516-0A3D-4F6B-A791-7FF849F0D002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A7A516-0A3D-4F6B-A791-7FF849F0D002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A7A516-0A3D-4F6B-A791-7FF849F0D002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A7A516-0A3D-4F6B-A791-7FF849F0D002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F005B591-39D9-4061-B1CB-C11E3C22B999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F005B591-39D9-4061-B1CB-C11E3C22B999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F005B591-39D9-4061-B1CB-C11E3C22B999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F005B591-39D9-4061-B1CB-C11E3C22B999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEFA449-0C99-470F-A23E-C852C56EC666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEFA449-0C99-470F-A23E-C852C56EC666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEFA449-0C99-470F-A23E-C852C56EC666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEFA449-0C99-470F-A23E-C852C56EC666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

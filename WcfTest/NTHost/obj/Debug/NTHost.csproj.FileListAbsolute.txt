@@ -1,0 +1,2 @@
+G:\HomeWork\WcfTest\NTHost\bin\Debug\NTHost.exe
+G:\HomeWork\WcfTest\NTHost\bin\Debug\NineService.dll

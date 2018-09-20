@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\SixHost\bin\Debug\SixHost.exe.config
+G:\HomeWork\WcfTest\SixHost\bin\Debug\SixHost.exe
+G:\HomeWork\WcfTest\SixHost\bin\Debug\SixHost.pdb
+G:\HomeWork\WcfTest\SixHost\bin\Debug\SixService.dll
+G:\HomeWork\WcfTest\SixHost\bin\Debug\SixService.pdb
+G:\HomeWork\WcfTest\SixHost\obj\Debug\SixHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\SixHost\obj\Debug\SixHost.exe
+G:\HomeWork\WcfTest\SixHost\obj\Debug\SixHost.pdb

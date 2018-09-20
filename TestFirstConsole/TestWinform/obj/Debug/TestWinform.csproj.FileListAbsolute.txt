@@ -1,0 +1,9 @@
+G:\HomeWork\TestFirstConsole\TestWinform\bin\Debug\TestWinform.exe.config
+G:\HomeWork\TestFirstConsole\TestWinform\bin\Debug\TestWinform.exe
+G:\HomeWork\TestFirstConsole\TestWinform\bin\Debug\TestWinform.pdb
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.Form1.resources
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.Properties.Resources.resources
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.csproj.GenerateResource.Cache
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.exe
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.pdb
+G:\HomeWork\TestFirstConsole\TestWinform\obj\Debug\TestWinform.csprojResolveAssemblyReference.cache

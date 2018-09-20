@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XfrogWCFService", "XfrogWCFService\XfrogWCFService.csproj", "{C8220EC5-3A3B-4057-B028-EB18931670D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{4C2113C0-8528-45F7-B394-38F67C71F167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{1B4A0252-822F-4F81-8877-031A2ADE2096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8220EC5-3A3B-4057-B028-EB18931670D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8220EC5-3A3B-4057-B028-EB18931670D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8220EC5-3A3B-4057-B028-EB18931670D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8220EC5-3A3B-4057-B028-EB18931670D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2113C0-8528-45F7-B394-38F67C71F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2113C0-8528-45F7-B394-38F67C71F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2113C0-8528-45F7-B394-38F67C71F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2113C0-8528-45F7-B394-38F67C71F167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4A0252-822F-4F81-8877-031A2ADE2096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4A0252-822F-4F81-8877-031A2ADE2096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4A0252-822F-4F81-8877-031A2ADE2096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4A0252-822F-4F81-8877-031A2ADE2096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

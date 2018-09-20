@@ -1,0 +1,4 @@
+G:\HomeWork\WcfTest\TwelveService\bin\Debug\TwelveService.dll
+G:\HomeWork\WcfTest\TwelveService\bin\Debug\TwelveService.pdb
+G:\HomeWork\WcfTest\TwelveService\obj\Debug\TwelveService.dll
+G:\HomeWork\WcfTest\TwelveService\obj\Debug\TwelveService.pdb

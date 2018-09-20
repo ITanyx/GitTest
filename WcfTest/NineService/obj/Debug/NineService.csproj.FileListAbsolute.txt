@@ -1,0 +1,4 @@
+G:\HomeWork\WcfTest\NineService\bin\Debug\NineService.dll
+G:\HomeWork\WcfTest\NineService\bin\Debug\NineService.pdb
+G:\HomeWork\WcfTest\NineService\obj\Debug\NineService.dll
+G:\HomeWork\WcfTest\NineService\obj\Debug\NineService.pdb

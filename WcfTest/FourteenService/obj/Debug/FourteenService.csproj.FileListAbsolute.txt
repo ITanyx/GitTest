@@ -1,0 +1,7 @@
+G:\HomeWork\WcfTest\FourteenService\bin\Debug\FourteenService.dll
+G:\HomeWork\WcfTest\FourteenService\bin\Debug\FourteenService.pdb
+G:\HomeWork\WcfTest\FourteenService\bin\Debug\FourteenContract.dll
+G:\HomeWork\WcfTest\FourteenService\bin\Debug\FourteenContract.pdb
+G:\HomeWork\WcfTest\FourteenService\obj\Debug\FourteenService.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\FourteenService\obj\Debug\FourteenService.dll
+G:\HomeWork\WcfTest\FourteenService\obj\Debug\FourteenService.pdb

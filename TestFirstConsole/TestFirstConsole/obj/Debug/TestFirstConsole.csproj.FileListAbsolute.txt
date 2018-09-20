@@ -1,0 +1,5 @@
+G:\HomeWork\TestFirstConsole\TestFirstConsole\bin\Debug\TestFirstConsole.exe.config
+G:\HomeWork\TestFirstConsole\TestFirstConsole\bin\Debug\TestFirstConsole.exe
+G:\HomeWork\TestFirstConsole\TestFirstConsole\bin\Debug\TestFirstConsole.pdb
+G:\HomeWork\TestFirstConsole\TestFirstConsole\obj\Debug\TestFirstConsole.exe
+G:\HomeWork\TestFirstConsole\TestFirstConsole\obj\Debug\TestFirstConsole.pdb

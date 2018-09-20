@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\SevenHost\bin\Debug\SevenHost.exe.config
+G:\HomeWork\WcfTest\SevenHost\bin\Debug\SevenHost.exe
+G:\HomeWork\WcfTest\SevenHost\bin\Debug\SevenHost.pdb
+G:\HomeWork\WcfTest\SevenHost\bin\Debug\SevenService.dll
+G:\HomeWork\WcfTest\SevenHost\bin\Debug\SevenService.pdb
+G:\HomeWork\WcfTest\SevenHost\obj\Debug\SevenHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\SevenHost\obj\Debug\SevenHost.exe
+G:\HomeWork\WcfTest\SevenHost\obj\Debug\SevenHost.pdb

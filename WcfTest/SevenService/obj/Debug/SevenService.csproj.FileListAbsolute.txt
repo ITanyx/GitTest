@@ -1,0 +1,4 @@
+G:\HomeWork\WcfTest\SevenService\bin\Debug\SevenService.dll
+G:\HomeWork\WcfTest\SevenService\bin\Debug\SevenService.pdb
+G:\HomeWork\WcfTest\SevenService\obj\Debug\SevenService.dll
+G:\HomeWork\WcfTest\SevenService\obj\Debug\SevenService.pdb

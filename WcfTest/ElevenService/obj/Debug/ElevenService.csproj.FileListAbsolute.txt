@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\ElevenService\bin\Debug\ElevenService.dll
+G:\HomeWork\WcfTest\ElevenService\bin\Debug\ElevenService.pdb
+G:\HomeWork\WcfTest\ElevenService\obj\Debug\ElevenService.dll
+G:\HomeWork\WcfTest\ElevenService\obj\Debug\ElevenService.pdb
+G:\HomeWork\WcfTest\ElevenService\obj\Debug\ElevenService.csprojResolveAssemblyReference.cache

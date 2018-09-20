@@ -1,0 +1,2 @@
+G:\HomeWork\NineMonthWCF\Host\bin\Debug\Host.exe
+G:\HomeWork\NineMonthWCF\Host\bin\Debug\XfrogWCFService.dll

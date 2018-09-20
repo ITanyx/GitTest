@@ -1,0 +1,6 @@
+G:\HomeWork\NineMonthWCF\Client\bin\Debug\Client.exe.config
+G:\HomeWork\NineMonthWCF\Client\bin\Debug\Client.exe
+G:\HomeWork\NineMonthWCF\Client\bin\Debug\Client.pdb
+G:\HomeWork\NineMonthWCF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\HomeWork\NineMonthWCF\Client\obj\Debug\Client.exe
+G:\HomeWork\NineMonthWCF\Client\obj\Debug\Client.pdb

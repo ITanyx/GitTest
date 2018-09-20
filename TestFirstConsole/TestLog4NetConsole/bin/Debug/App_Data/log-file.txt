@@ -1,0 +1,1 @@
+[Header] 2018-04-23 23:46:06,121 [8] INFO  testApp.Logging [(null)]  - 这是日志信息记录

@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\TenClient1\bin\Debug\TenClient1.exe.config
+G:\HomeWork\WcfTest\TenClient1\bin\Debug\TenClient1.exe
+G:\HomeWork\WcfTest\TenClient1\bin\Debug\TenClient1.pdb
+G:\HomeWork\WcfTest\TenClient1\obj\Debug\TenClient1.exe
+G:\HomeWork\WcfTest\TenClient1\obj\Debug\TenClient1.pdb

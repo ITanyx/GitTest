@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\SixService\bin\Debug\SixService.dll
+G:\HomeWork\WcfTest\SixService\bin\Debug\SixService.pdb
+G:\HomeWork\WcfTest\SixService\obj\Debug\SixService.dll
+G:\HomeWork\WcfTest\SixService\obj\Debug\SixService.pdb
+G:\HomeWork\WcfTest\SixService\obj\Debug\SixService.csprojResolveAssemblyReference.cache

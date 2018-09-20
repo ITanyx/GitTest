@@ -1,0 +1,12 @@
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\FourteenClient.exe.config
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\FourteenClient.exe
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\FourteenClient.pdb
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\FourteenContract.dll
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\FourteenContract.pdb
+G:\HomeWork\WcfTest\FourteenClient\obj\Debug\FourteenClient.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\FourteenClient\obj\Debug\FourteenClient.exe
+G:\HomeWork\WcfTest\FourteenClient\obj\Debug\FourteenClient.pdb
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\TencentWCF.dll
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\TencentCommon.dll
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\TencentWCF.pdb
+G:\HomeWork\WcfTest\FourteenClient\bin\Debug\TencentCommon.pdb

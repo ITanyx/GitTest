@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\FourClient\bin\Debug\FourClient.exe.config
+G:\HomeWork\WcfTest\FourClient\bin\Debug\FourClient.exe
+G:\HomeWork\WcfTest\FourClient\bin\Debug\FourClient.pdb
+G:\HomeWork\WcfTest\FourClient\obj\Debug\FourClient.exe
+G:\HomeWork\WcfTest\FourClient\obj\Debug\FourClient.pdb

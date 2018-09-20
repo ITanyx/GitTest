@@ -1,0 +1,7 @@
+G:\HomeWork\WcfTest\TencentWCF\obj\Debug\TencentWCF.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\TencentWCF\bin\Debug\TencentWCF.dll
+G:\HomeWork\WcfTest\TencentWCF\bin\Debug\TencentWCF.pdb
+G:\HomeWork\WcfTest\TencentWCF\bin\Debug\TencentCommon.dll
+G:\HomeWork\WcfTest\TencentWCF\bin\Debug\TencentCommon.pdb
+G:\HomeWork\WcfTest\TencentWCF\obj\Debug\TencentWCF.dll
+G:\HomeWork\WcfTest\TencentWCF\obj\Debug\TencentWCF.pdb

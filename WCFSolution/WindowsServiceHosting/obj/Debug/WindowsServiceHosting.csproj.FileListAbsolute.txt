@@ -1,0 +1,12 @@
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.exe.config
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.exe
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.pdb
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\CalculateWcfService.dll
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\CalculateWcfService.pdb
+G:\HomeWork\WCFSolution\WindowsServiceHosting\obj\Debug\WindowsServiceHosting.csprojResolveAssemblyReference.cache
+G:\HomeWork\WCFSolution\WindowsServiceHosting\obj\Debug\WindowsServiceHosting.exe
+G:\HomeWork\WCFSolution\WindowsServiceHosting\obj\Debug\WindowsServiceHosting.pdb
+G:\HomeWork\WCFSolution\WindowsServiceHosting\obj\Debug\WindowsServiceHosting.ProjectInstaller.resources
+G:\HomeWork\WCFSolution\WindowsServiceHosting\obj\Debug\WindowsServiceHosting.csproj.GenerateResource.Cache
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\install.bat
+G:\HomeWork\WCFSolution\WindowsServiceHosting\bin\Debug\uninstall.bat

@@ -1,0 +1,5 @@
+G:\HomeWork\NineMonthWCF\XfrogWCFService\bin\Debug\XfrogWCFService.dll
+G:\HomeWork\NineMonthWCF\XfrogWCFService\bin\Debug\XfrogWCFService.pdb
+G:\HomeWork\NineMonthWCF\XfrogWCFService\obj\Debug\XfrogWCFService.dll
+G:\HomeWork\NineMonthWCF\XfrogWCFService\obj\Debug\XfrogWCFService.pdb
+G:\HomeWork\NineMonthWCF\XfrogWCFService\obj\Debug\XfrogWCFService.csprojResolveAssemblyReference.cache

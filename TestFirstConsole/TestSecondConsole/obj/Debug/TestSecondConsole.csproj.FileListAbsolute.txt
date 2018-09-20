@@ -1,0 +1,8 @@
+G:\HomeWork\TestFirstConsole\TestSecondConsole\bin\Debug\TestSecondConsole.exe.config
+G:\HomeWork\TestFirstConsole\TestSecondConsole\bin\Debug\TestSecondConsole.exe
+G:\HomeWork\TestFirstConsole\TestSecondConsole\bin\Debug\TestSecondConsole.pdb
+G:\HomeWork\TestFirstConsole\TestSecondConsole\bin\Debug\TestFirstConsole.exe
+G:\HomeWork\TestFirstConsole\TestSecondConsole\bin\Debug\TestFirstConsole.pdb
+G:\HomeWork\TestFirstConsole\TestSecondConsole\obj\Debug\TestSecondConsole.csprojResolveAssemblyReference.cache
+G:\HomeWork\TestFirstConsole\TestSecondConsole\obj\Debug\TestSecondConsole.exe
+G:\HomeWork\TestFirstConsole\TestSecondConsole\obj\Debug\TestSecondConsole.pdb

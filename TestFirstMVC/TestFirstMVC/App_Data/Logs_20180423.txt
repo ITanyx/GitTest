@@ -1,0 +1,14 @@
+2018-04-23 23:07:17,554 [5] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:17,569 [5] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:19,597 [7] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:19,597 [7] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:19,816 [6] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:19,816 [6] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:19,976 [8] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:19,976 [8] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:20,128 [5] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:20,128 [5] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:54,314 [8] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:54,314 [8] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息
+2018-04-23 23:07:56,018 [12] INFO  TestFirstMVC.Controllers.HomeController - 这是日志信息记录
+2018-04-23 23:07:56,018 [12] ERROR TestFirstMVC.Controllers.HomeController - 这是错误信息

@@ -1,0 +1,4 @@
+G:\HomeWork\WcfTest\EightService\bin\Debug\EightService.dll
+G:\HomeWork\WcfTest\EightService\bin\Debug\EightService.pdb
+G:\HomeWork\WcfTest\EightService\obj\Debug\EightService.dll
+G:\HomeWork\WcfTest\EightService\obj\Debug\EightService.pdb

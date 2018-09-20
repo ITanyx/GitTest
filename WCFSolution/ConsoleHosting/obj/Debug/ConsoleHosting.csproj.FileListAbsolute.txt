@@ -1,0 +1,8 @@
+G:\HomeWork\WCFSolution\ConsoleHosting\obj\Debug\ConsoleHosting.csprojResolveAssemblyReference.cache
+G:\HomeWork\WCFSolution\ConsoleHosting\bin\Debug\ConsoleHosting.exe.config
+G:\HomeWork\WCFSolution\ConsoleHosting\bin\Debug\ConsoleHosting.exe
+G:\HomeWork\WCFSolution\ConsoleHosting\bin\Debug\ConsoleHosting.pdb
+G:\HomeWork\WCFSolution\ConsoleHosting\bin\Debug\CalculateWcfService.dll
+G:\HomeWork\WCFSolution\ConsoleHosting\bin\Debug\CalculateWcfService.pdb
+G:\HomeWork\WCFSolution\ConsoleHosting\obj\Debug\ConsoleHosting.exe
+G:\HomeWork\WCFSolution\ConsoleHosting\obj\Debug\ConsoleHosting.pdb

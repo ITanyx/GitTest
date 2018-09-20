@@ -1,0 +1,6 @@
+G:\HomeWork\WcfTest\ThirteenIIS\bin\ThirteenIIS.dll.config
+G:\HomeWork\WcfTest\ThirteenIIS\bin\ThirteenIIS.dll
+G:\HomeWork\WcfTest\ThirteenIIS\bin\ThirteenIIS.pdb
+G:\HomeWork\WcfTest\ThirteenIIS\obj\Debug\ThirteenIIS.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\ThirteenIIS\obj\Debug\ThirteenIIS.dll
+G:\HomeWork\WcfTest\ThirteenIIS\obj\Debug\ThirteenIIS.pdb

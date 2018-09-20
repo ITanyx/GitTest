@@ -1,0 +1,7 @@
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\bin\Debug\TestLog4NetConsole.exe.config
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\bin\Debug\TestLog4NetConsole.exe
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\bin\Debug\TestLog4NetConsole.pdb
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\bin\Debug\log4net.dll
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\obj\Debug\TestLog4NetConsole.exe
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\obj\Debug\TestLog4NetConsole.pdb
+G:\HomeWork\TestFirstConsole\TestLog4NetConsole\obj\Debug\TestLog4NetConsole.csprojResolveAssemblyReference.cache

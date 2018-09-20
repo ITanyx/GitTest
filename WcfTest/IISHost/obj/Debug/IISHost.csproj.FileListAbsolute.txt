@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\IISHost\bin\IISHost.dll.config
+G:\HomeWork\WcfTest\IISHost\bin\IISHost.dll
+G:\HomeWork\WcfTest\IISHost\bin\IISHost.pdb
+G:\HomeWork\WcfTest\IISHost\bin\NineService.dll
+G:\HomeWork\WcfTest\IISHost\bin\NineService.pdb
+G:\HomeWork\WcfTest\IISHost\obj\Debug\IISHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\IISHost\obj\Debug\IISHost.dll
+G:\HomeWork\WcfTest\IISHost\obj\Debug\IISHost.pdb

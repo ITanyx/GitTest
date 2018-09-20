@@ -1,0 +1,6 @@
+G:\HomeWork\WcfTest\SevenClient\bin\Debug\SevenClient.exe.config
+G:\HomeWork\WcfTest\SevenClient\bin\Debug\SevenClient.exe
+G:\HomeWork\WcfTest\SevenClient\bin\Debug\SevenClient.pdb
+G:\HomeWork\WcfTest\SevenClient\obj\Debug\SevenClient.exe
+G:\HomeWork\WcfTest\SevenClient\obj\Debug\SevenClient.pdb
+G:\HomeWork\WcfTest\SevenClient\obj\Debug\SevenClient.csprojResolveAssemblyReference.cache

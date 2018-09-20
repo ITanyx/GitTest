@@ -1,0 +1,4 @@
+G:\HomeWork\WCFSolution\CalculateWcfService\bin\Debug\CalculateWcfService.dll
+G:\HomeWork\WCFSolution\CalculateWcfService\bin\Debug\CalculateWcfService.pdb
+G:\HomeWork\WCFSolution\CalculateWcfService\obj\Debug\CalculateWcfService.dll
+G:\HomeWork\WCFSolution\CalculateWcfService\obj\Debug\CalculateWcfService.pdb

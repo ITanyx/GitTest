@@ -1,0 +1,7 @@
+G:\HomeWork\NinjectProject\NinjectProject\bin\Debug\NinjectProject.exe.config
+G:\HomeWork\NinjectProject\NinjectProject\bin\Debug\NinjectProject.exe
+G:\HomeWork\NinjectProject\NinjectProject\bin\Debug\NinjectProject.pdb
+G:\HomeWork\NinjectProject\NinjectProject\bin\Debug\Ninject.dll
+G:\HomeWork\NinjectProject\NinjectProject\bin\Debug\Ninject.xml
+G:\HomeWork\NinjectProject\NinjectProject\obj\Debug\NinjectProject.exe
+G:\HomeWork\NinjectProject\NinjectProject\obj\Debug\NinjectProject.pdb

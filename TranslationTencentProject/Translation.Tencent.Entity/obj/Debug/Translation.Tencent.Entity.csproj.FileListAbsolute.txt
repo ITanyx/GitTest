@@ -1,0 +1,5 @@
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Entity\bin\Debug\Translation.Tencent.Entity.dll
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Entity\bin\Debug\Translation.Tencent.Entity.pdb
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Entity\obj\Debug\Translation.Tencent.Entity.dll
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Entity\obj\Debug\Translation.Tencent.Entity.pdb
+G:\HomeWork\TranslationTencentProject\Translation.Tencent.Entity\obj\Debug\Translation.Tencent.Entity.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\ElevenClient3\bin\Debug\ElevenClient3.exe.config
+G:\HomeWork\WcfTest\ElevenClient3\bin\Debug\ElevenClient3.exe
+G:\HomeWork\WcfTest\ElevenClient3\bin\Debug\ElevenClient3.pdb
+G:\HomeWork\WcfTest\ElevenClient3\obj\Debug\ElevenClient3.exe
+G:\HomeWork\WcfTest\ElevenClient3\obj\Debug\ElevenClient3.pdb

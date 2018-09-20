@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\FourteenContract\bin\Debug\FourteenContract.dll
+G:\HomeWork\WcfTest\FourteenContract\bin\Debug\FourteenContract.pdb
+G:\HomeWork\WcfTest\FourteenContract\obj\Debug\FourteenContract.dll
+G:\HomeWork\WcfTest\FourteenContract\obj\Debug\FourteenContract.pdb
+G:\HomeWork\WcfTest\FourteenContract\obj\Debug\FourteenContract.csprojResolveAssemblyReference.cache

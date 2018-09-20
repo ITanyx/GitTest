@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\FourHost\bin\Debug\FourHost.exe.config
+G:\HomeWork\WcfTest\FourHost\bin\Debug\FourHost.exe
+G:\HomeWork\WcfTest\FourHost\bin\Debug\FourHost.pdb
+G:\HomeWork\WcfTest\FourHost\bin\Debug\FourService.dll
+G:\HomeWork\WcfTest\FourHost\bin\Debug\FourService.pdb
+G:\HomeWork\WcfTest\FourHost\obj\Debug\FourHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\FourHost\obj\Debug\FourHost.exe
+G:\HomeWork\WcfTest\FourHost\obj\Debug\FourHost.pdb

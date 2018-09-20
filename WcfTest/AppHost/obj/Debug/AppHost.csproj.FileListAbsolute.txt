@@ -1,0 +1,8 @@
+G:\HomeWork\WcfTest\AppHost\bin\Debug\AppHost.exe.config
+G:\HomeWork\WcfTest\AppHost\bin\Debug\AppHost.exe
+G:\HomeWork\WcfTest\AppHost\bin\Debug\AppHost.pdb
+G:\HomeWork\WcfTest\AppHost\bin\Debug\NineService.dll
+G:\HomeWork\WcfTest\AppHost\bin\Debug\NineService.pdb
+G:\HomeWork\WcfTest\AppHost\obj\Debug\AppHost.csprojResolveAssemblyReference.cache
+G:\HomeWork\WcfTest\AppHost\obj\Debug\AppHost.exe
+G:\HomeWork\WcfTest\AppHost\obj\Debug\AppHost.pdb

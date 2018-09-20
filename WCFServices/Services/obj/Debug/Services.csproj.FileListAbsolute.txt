@@ -1,0 +1,7 @@
+G:\HomeWork\WCFServices\Services\bin\Debug\Services.dll
+G:\HomeWork\WCFServices\Services\bin\Debug\Services.pdb
+G:\HomeWork\WCFServices\Services\bin\Debug\Contracts.dll
+G:\HomeWork\WCFServices\Services\bin\Debug\Contracts.pdb
+G:\HomeWork\WCFServices\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+G:\HomeWork\WCFServices\Services\obj\Debug\Services.dll
+G:\HomeWork\WCFServices\Services\obj\Debug\Services.pdb

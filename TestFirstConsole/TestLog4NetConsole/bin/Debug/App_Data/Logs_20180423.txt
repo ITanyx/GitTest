@@ -1,0 +1,2 @@
+2018-04-23 23:12:39,379 [8] INFO  TestLog4NetConsole.Program - 这是日志信息记录
+2018-04-23 23:12:39,810 [8] ERROR TestLog4NetConsole.Program - 这是错误信息

@@ -1,0 +1,5 @@
+G:\HomeWork\WcfTest\TenService\bin\Debug\TenService.dll
+G:\HomeWork\WcfTest\TenService\bin\Debug\TenService.pdb
+G:\HomeWork\WcfTest\TenService\obj\Debug\TenService.dll
+G:\HomeWork\WcfTest\TenService\obj\Debug\TenService.pdb
+G:\HomeWork\WcfTest\TenService\obj\Debug\TenService.csprojResolveAssemblyReference.cache

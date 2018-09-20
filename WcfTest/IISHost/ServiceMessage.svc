@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NineService.ServiceMessage" CodeBehind="ServiceMessage.svc.cs" %>
